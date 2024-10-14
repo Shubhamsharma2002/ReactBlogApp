@@ -5,7 +5,7 @@ function App() {
   
 
   return (
-       <h1>Project is redy ::-|| down  Guys</h1>
+       <h1>Project is redy || down  Guys</h1>
   )
 }
 
